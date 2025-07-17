@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<records>
+    <property>
+        <id>1</id>
+        <name>Aldo</name>
+        <surname>Tasca</surname>
+        <area> </area>
+    </property>
+
+    <property>
+        <id>2</id>
+        <name>Nelson</name>
+        <surname>Schenatto</surname>
+        <area>A</area>
+    </property>
+
+    <property>
+        <id>3</id>
+        <name>Nelson</name>
+        <surname>Schenatto</surname>
+        <area>B</area>
+    </property>
+
+    <property>
+        <id>4</id>
+        <name>Juliano</name>
+        <surname>Lamb</surname>
+        <area> </area>
+    </property>
+</records>

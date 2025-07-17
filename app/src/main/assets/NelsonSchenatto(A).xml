@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<records>
+    <point><lat>-25.408065</lat> <long>-54.006368</long><name>1</name><start>true</start></point>
+    <point><lat>-25.408302</lat> <long>-54.00617</long><name>2</name><start>true</start></point>
+    <point><lat>-25.40846</lat> <long>-54.005791</long><name>3</name><start>true</start></point>
+    <point><lat>-25.408129</lat> <long>-54.005909</long><name>4</name><start>false</start></point>
+    <point><lat>-25.407782</lat> <long>-54.006142</long><name>5</name><start>false</start></point>
+    <point><lat>-25.40743</lat> <long>-54.005964</long><name>6</name><start>false</start></point>
+    <point><lat>-25.407736</lat> <long>-54.0057</long><name>7</name><start>false</start></point>
+    <point><lat>-25.408021</lat> <long>-54.005548</long><name>8</name><start>false</start></point>
+    <point><lat>-25.40835</lat> <long>-54.005343</long><name>9</name><start>false</start></point>
+    <point><lat>-25.408783</lat> <long>-54.005115</long><name>10</name><start>true</start></point>
+    <point><lat>-25.408994</lat> <long>-54.004818</long><name>11</name><start>true</start></point>
+    <point><lat>-25.40961</lat> <long>-54.003654</long><name>12</name><start>true</start></point>
+    <point><lat>-25.409338</lat> <long>-54.003541</long><name>13</name><start>false</start></point>
+    <point><lat>-25.409051</lat> <long>-54.003358</long><name>14</name><start>false</start></point>
+    <point><lat>-25.40914</lat> <long>-54.004026</long><name>15</name><start>false</start></point>
+    <point><lat>-25.408914</lat> <long>-54.003926</long><name>16</name><start>false</start></point>
+    <point><lat>-25.408738</lat> <long>-54.004465</long><name>17</name><start>false</start></point>
+    <point><lat>-25.408493</lat> <long>-54.004502</long><name>18</name><start>false</start></point>
+    <point><lat>-25.40829</lat> <long>-54.004863</long><name>19</name><start>false</start></point>
+    <point><lat>-25.408066</lat> <long>-54.004836</long><name>20</name><start>false</start></point>
+    <point><lat>-25.407803</lat> <long>-54.005218</long><name>21</name><start>false</start></point>
+    <point><lat>-25.407451</lat> <long>-54.005241</long><name>22</name><start>false</start></point>
+    <point><lat>-25.407317</lat> <long>-54.00555</long><name>23</name><start>false</start></point>
+    <point><lat>-25.406992</lat> <long>-54.005639</long><name>24</name><start>false</start></point>
+    <point><lat>-25.406633</lat> <long>-54.005512</long><name>25</name><start>false</start></point>
+    <point><lat>-25.406454</lat> <long>-54.005195</long><name>26</name><start>false</start></point>
+    <point><lat>-25.406846</lat> <long>-54.005162</long><name>27</name><start>false</start></point>
+    <point><lat>-25.40733</lat> <long>-54.004904</long><name>28</name><start>false</start></point>
+    <point><lat>-25.407697</lat> <long>-54.004655</long><name>29</name><start>false</start></point>
+    <point><lat>-25.408006</lat> <long>-54.004393</long><name>30</name><start>false</start></point>
+    <point><lat>-25.408342</lat> <long>-54.004044</long><name>31</name><start>false</start></point>
+    <point><lat>-25.408531</lat> <long>-54.003741</long><name>32</name><start>false</start></point>
+    <point><lat>-25.40852</lat> <long>-54.003199</long><name>33</name><start>false</start></point>
+    <point><lat>-25.408053</lat> <long>-54.003037</long><name>34</name><start>false</start></point>
+    <point><lat>-25.407795</lat> <long>-54.003731</long><name>35</name><start>false</start></point>
+    <point><lat>-25.407411</lat> <long>-54.004314</long><name>36</name><start>false</start></point>
+    <point><lat>-25.406994</lat> <long>-54.004605</long><name>37</name><start>false</start></point>
+    <point><lat>-25.406728</lat> <long>-54.004685</long><name>38</name><start>false</start></point>
+    <point><lat>-25.406967</lat> <long>-54.004001</long><name>39</name><start>false</start></point>
+    <point><lat>-25.407363</lat> <long>-54.003774</long><name>40</name><start>false</start></point>
+    <point><lat>-25.407491</lat> <long>-54.003282</long><name>41</name><start>false</start></point>
+    <point><lat>-25.407648</lat> <long>-54.002779</long><name>42</name><start>false</start></point>
+</records>

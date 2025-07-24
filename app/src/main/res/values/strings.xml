@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">SNAC</string>
+
+    <string name="paginaPropriedade">Propriedade</string>
+    <string name="paginaTipoPercurso">Tipo de percurso</string>
+    <string name="paginaPontoPartida">Ponto de partida</string>
+
+    <string name="percursoPadrao">Padrão</string>
+    <string name="percursoPersonalizado">Personalizado</string>
+
+    <string name="rb_rota_rapida">Menor caminho</string>
+    <string name="rb_rota_predefinida">Rota pré-definida </string>
+    <string name="title_activity_point_selection">Ponto inicial</string>
+    <string name="tv_selecao_rota">Qual tipo de rota deseja utilizar?</string>
+    <string name="btn_iniciar_navegacao">Iniciar navegação</string>
+
+    <string name="next">Próximo</string>
+    <string name="prev">Anterior</string>
+    <string name="finish">Navegar!</string>
+    <string name="review">Resumo</string>
+
+    <string name="inst_inicial">Bem vindo ao SNAC (Sistema de Navegação para Atividades em campo).
+        \n\nNosso objetivo é auxiliar no seu deslocamento durante as atividades de coleta que são feitas
+        em campo, fornecendo instruções de deslocamento e, objetivos a cumprir.
+        \n\nAntes de iniciarmos a navegação, precisaremos de algumas informações. Clique em próximo
+        para que o assistente lhe auxilie na configuração do sistema.
+    </string>
+
+    <string name="inst_propriedade">O primeiro passo está em selecionar a área em que o
+        procedimento será realizado.
+        \n\nCaso uma propriedade tenha mais de uma área de ensaio, estas serão identificadas usando
+        letras maíusculas, por exemplo: A, B e C.
+        \n\nNa tela seguinte, selecione uma área e clique em "Próximo".
+    </string>
+
+    <string name="inst_percurso">A escolha do percurso de caminhamento pode ser feita de dois modos:
+        \"padrão\" ou \"personalizado\".
+        \n\nO percurso "padrão" é aquele já definido por meio da experiência de pessoas que já
+        utilizaram esse caminhamento, sendo assim, previamente alimentado no sistema.
+        \n\nO percurso "personalizado" permite ao usuário escolher um ponto de partida qualquer no mapa,
+        e a partir deste, o sistema identifica a menor distância para esse ponto, sendo esse definido como próximo
+        ponto de coleta. Todo o percurso é definido procurando-se as menores distâncias de um ponto a outro.
+    </string>
+
+    <string name="inst_percurso_personalizado">Para prosseguir com a definição do caminhamento personalizado
+        você deve selecionar um ponto de partida no mapa.
+        \n\nNa próxima tela, será exibido o mapa da área selecionada contendo todos os pontos de coleta. Você pode
+        aumentar/reduzir o zoom, ou mesmo clicar sobre os pontos para obter maiores informações.
+        \n\nPara selecionar o ponto, será necessário clicar duas vezes sobre o mesmo. Uma janela de confirmação
+        será aberta e, confirmará se a seleção está correta.
+        \n\nDepois de selecionado o ponto, clique em "Próximo".
+    </string>
+
+    <!--Navegador-->
+    <!--Card1/Percursos-->
+    <string name="rotulo_planejado">Planejado</string>
+    <string name="rotulo_valor_planejado">: 0m</string>
+    <string name="rotulo_caminhado">Caminhado</string>
+    <string name="rotulo_valor_caminhado">: 0m</string>
+    <string name="rotulo_restante">Restante</string>
+    <string name="rotulo_valor_restante">: 0m</string>
+    <!--Card2/Proximo ponto-->
+    <string name="rotulo_proximo">Próximo</string>
+    <string name="rotulo_valor_proximo">: Ponto</string>
+    <string name="rotulo_direcao">Direção</string>
+    <string name="rotulo_valor_direcao">: Direção</string>
+    <string name="rotulo_distancia">Distância</string>
+    <string name="rotulo_valor_distancia">: 0m</string>
+    <!--Fab buttons-->
+    <string name="rotulo_fab_iniciar_navegacao">Navegar</string>
+    <string name="rotulo_fab_continuar_depois">Pausar</string>
+    <string name="rotulo_fab_limpar_navegacao">Limpar</string>
+
+    <string name="channel_name">SNAC</string>
+    <string name="channel_description">SNAC-Channel</string>
+
+</resources>
